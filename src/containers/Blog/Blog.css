@@ -23,6 +23,7 @@
     color:black
 }
 .blog a:hover,
-.Blog a:acive{
+.Blog a.active,
+.Blog a.active {
 color:#fa923f;
 }
